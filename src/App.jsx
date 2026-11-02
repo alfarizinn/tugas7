@@ -1,7 +1,7 @@
-import ApiJobs from './ApiJobs';
+import Soal8 from './Soal8';
 
 function App() {
-  return <ApiJobs />;
+  return <Soal8 />;
 }
 
 export default App;
